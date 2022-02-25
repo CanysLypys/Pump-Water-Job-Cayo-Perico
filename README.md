@@ -1,4 +1,4 @@
-# Pump-Water-Job-Cayo-Perico
+# [OUTDATE] [Trash Code] Pump-Water-Job-Cayo-Perico
 A small job I made out of boredom. You need to pump water on the island Cayo Perico, after that you can sell the water. But before that you need to repair the water pipe in order to pump water out of three water silos on the island.
 
 Dependencys: ESX, mySQL-async
